@@ -1,0 +1,61 @@
+<resources>
+
+    <integer name="open_activity_time">450</integer>
+    <integer name="swing_anim_time">550</integer>
+
+
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+
+    <dimen name="name">15dp</dimen>
+    <dimen name="chef">12dp</dimen>
+    <dimen name="timestamp">11dp</dimen>
+    <dimen name="description">15dp</dimen>
+    <dimen name="phone_number">13dp</dimen>
+
+    <dimen name="activity_margin">13dp</dimen>
+    <dimen name="textSize_19">19dp</dimen>
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_7">7dp</dimen>
+    <dimen name="padding_18">18dp</dimen>
+
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="padding_1">1dp</dimen>
+    <dimen name="padding_14">14dp</dimen>
+    <dimen name="padding_36">36dp</dimen>
+    <dimen name="padding_35">35dp</dimen>
+
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_70">70dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_25">25dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_18_sp">18sp</dimen>
+    <dimen name="padding_27">27dp</dimen>
+    <dimen name="padding_13">13dp</dimen>
+    <dimen name="between_fildes">10dp</dimen>
+    <dimen name="between_fildes_long">10dp</dimen>
+    <dimen name="padding_6">6dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_3">3dp</dimen>
+    <dimen name="padding_9">9dp</dimen>
+    <dimen name="padding_60">60dp</dimen>
+
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+    <dimen name="padding_26">26dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="_80sdp">80sp</dimen>
+    <dimen name="_16sdp">16sp</dimen>
+    <dimen name="_3sdp">3sp</dimen>
+    <dimen name="padding_17">17dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_16_sp">16sp</dimen>
+
+</resources>
